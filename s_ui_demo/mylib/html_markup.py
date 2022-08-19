@@ -1,0 +1,5 @@
+DROPDOWN_Network = "//div[@id='navbarSupportedContent']/ul/li[3]/a/span"
+DROPDOWN_Connection = "//option[. = '[ Create New PVC ]']"
+BOTTON_Save = ".col-12:nth-child(29) .btn"
+DROPDOWN_Status = "#status_anchor > span"
+DROPDOWN_InterfaceName = "//option[. = 'new']"
